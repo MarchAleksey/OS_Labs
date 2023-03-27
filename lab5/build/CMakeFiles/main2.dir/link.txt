@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/main2.dir/src/main2.c.o -o main2  -Wl,-rpath,/home/ggame/hubs/newos/l5/8/build liblib2.so 
