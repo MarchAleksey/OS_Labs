@@ -1,0 +1,1 @@
+/usr/bin/c++ -fsanitize=address -g CMakeFiles/control.dir/src/control.cpp.o -o control  -lzmq 

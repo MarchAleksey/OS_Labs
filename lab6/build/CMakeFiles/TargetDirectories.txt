@@ -1,0 +1,4 @@
+/home/ggame/hubs/newos/l6/8/build/CMakeFiles/control.dir
+/home/ggame/hubs/newos/l6/8/build/CMakeFiles/calculation.dir
+/home/ggame/hubs/newos/l6/8/build/CMakeFiles/edit_cache.dir
+/home/ggame/hubs/newos/l6/8/build/CMakeFiles/rebuild_cache.dir

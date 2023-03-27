@@ -1,0 +1,1 @@
+/usr/bin/c++ -fsanitize=address -g CMakeFiles/calculation.dir/src/calculation.cpp.o -o calculation  -lzmq 
